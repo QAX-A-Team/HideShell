@@ -14,4 +14,4 @@ A JSP backdoor that enables under Tomcat hiding arbitrary JSP files, in addition
 - [Tomcat 源代码调试 - 看不见的 Shell 第二式增强之无痕](https://mp.weixin.qq.com/s/7b3Fyu_K6ZRgKlp6RkdYoA)
 
 ## TL;DR   
-Hideshell.jsp hides JSP files by simplying deleting them, while persuading Tomcat into believing that files are still there, thus serving them as usual.
+Hideshell.jsp hides JSP files by simply deleting them, while persuading Tomcat into believing that files are still there, thus serving them as usual.
